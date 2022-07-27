@@ -78,3 +78,36 @@ OSM や HOT の活動は基本的にユーザーの一部の有償マッパー�
 「オフライン時における GIS システム利用に関する研究の調査」を目的とした文献調査を行った。"オフライン環境下での情報収集"、"激甚災害時の情報伝達モデル"、"ボランタリーな市民によるマッピング活動"の 3 つのテーマに沿って先行研究を調査し、現状の研究状態と今後の研究課題を確認した。SNS を台頭に市民からの情報発信の重要性やその利活用のに関して研究されているなかで、実証を行えていないものがほとんどであった。災害が起きないと実証できないという性質上、実証し効果を確かめることが難しい点がある。研究されてきた防災理論を実証するためにはどのような条件を考慮して効果検証ができるを今後議論していくべきである。また、草の根のマッピング活動を継続的なものとするため、コミュニティ設計について研究する余地がある。OSM は 2004 年に生まれてまだ歴史が浅いコミュニティである。Wikipedia や Linux 等の歴史あるオープンソースコミュニティ等から示唆を得て、継続的な運用システムの研究を今後進めていきたい。
 
 ## Reference
+Brabham, Daren C. "Crowdsourcing as a Model for Problem Solving: An Introduction and Cases." Convergence 14, no. 1 (2008): 75-90.
+
+John D. Sutter. "Low-Tech Radios Connect some Haitians." January 20, [cited 2022]. Available from https://refworks.proquest.com/tools/stf/.
+
+Sakurai, Mihoko, and Yuko Murayama. "Information Technologies and Disaster Management – Benefits and Issues -." Progress in Disaster Science 2, (2019): 100012.
+
+Sakurai, Mihoko, and Devinder Thapa. "Building Resilience through Effective Disaster Management: An Information Ecology Perspective." International Journal of Information Systems for Crisis Response and Management (IJISCRAM) 9, no. 1 (2017): 11-26.
+
+Tim, Yenni, Shan L. Pan, Peter Ractham, and Laddawan Kaewkitipong. "Digitally Enabled Disaster Response: The Emergence of Social Media as Boundary Objects in a Flooding Disaster." Information Systems Journal 27, no. 2 (2017): 197-232.
+
+井ノ口宗成, 田村圭子, 古屋貴司, 木村玲欧, and 林春男. "緊急地図作成チームにおける 効果的な現場型空間情報マッシュアップの実現に向けた提案 一平成 23 年東北地方太平洋沖地震を事例として一." 地域安全学会論文集 15, (2011): 219-229.
+
+井上明, 大滝裕一, 寺田守正, 佐野嘉紀, 奥田晋也, 白井由希子, 村西あい, 竹内一浩, 中村喜輝, and 永井智子. "ウェブを活用した災害初期対応システム." 第 68 回全国大会講演論文集 2006, no. 1 (2006): 113-114.
+
+佐野浩彬, 田口仁, 花島誠人, 伊勢正, 佐藤良太, 高橋拓也, 池田真幸, 鈴木比奈子, 李泰榮, and 臼田裕一郎. 2016 年熊本地震における地図情報作成・集約・共有による災害対応支援. 公益社団法人 日本地理学会, 2016.
+
+坂本大介, 窪田諭, 市川尚, and 阿部昭博. "オフラインでの利用を考慮した道路情報ポータルの拡張." 第 75 回全国大会講演論文集 2013, no. 1 (2013): 753-754.
+
+川崎昭如, and 目黒公郎. "ウェブマッピングによる大規模災害対応支援の新動向: 2010 年ハイチ地震の分析と考察." 地域安全学会論文集 13, (2010): 233-242.
+
+早川知道, and 伊藤孝行. "日本の OpenStreetMap のコミュニティ活動と東日本大震災後の活動についての調査分析." 研究報告知能システム (ICS) 2014, no. 5 (2014): 1-11.
+
+服部純子, 安川雅紀, and 喜連川優. "生物モニタリングにおける位置情報付与の利便性を向上したスマートフォン・アプリケーションの開発." 第 78 回全国大会講演論文集 2016, no. 1 (2016): 57-58.
+
+濵村朱里, 福島拓, 吉野孝, and 江種伸之. "あかりマップ: 日常利用可能なオフライン対応型災害時避難支援システム." マルチメディア, 分散協調とモバイルシンポジウム 2014 論文集 2014, (2014): 2070-2078.
+
+瀬戸寿一. "ボランタリーな地理情報による参加型地図作成の現在." 農村計画学会誌 38, no. 4 (2020): 460-463.
+
+田口仁, 李泰榮, 臼田裕一郎, and 長坂俊成. "効果的な災害対応を支援する地理情報システムの一提案: 東北地方太平洋沖地震の被災地情報支援を事例として." 日本地震工学会論文集 15, no. 1 (2015): 1_101-1_115.
+
+田口仁, 臼田裕一郎, and 長坂俊成. "市町村の水害対応の判断・意思決定を支援する地理空間情報の相互運用性を有する情報システムの構築と評価." 災害情報 9, (2011): 72-81.
+
+西村宏治. "Toolsトンガの海底ケーブル、地滑りにより切断か　復旧は3週間との見方も." January 18, [cited 2022]. Available from https://refworks.proquest.com/tools/stf/.
